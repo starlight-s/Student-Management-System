@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.heading_profile {
+  display: inline-block;
+  margin-left: 10px;
+  color: black;
+  width: 104px;
+}
+.profile_span {
+  display: block;
+  margin-left: 200px;
+}
+
+.details,
+.details-pnr {
+  display: flex;
+  width: 500px;
+  line-height: 3;
+}
+
+.details-pnr span {
+  padding-left: 230px;
+}
+
+/***********/
+.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-bottom: 50px;
+}
+.container_profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  background: rgb(193, 205, 255);
+  border-radius: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 4vh;
+}
+
+.edit-btn {
+  margin-top: 10px;
+}
+
+.save-cancel-btn {
+  display: flex;
+}
+
+.edit-btn > button:hover {
+  background-color: #ffd1c8;
+}

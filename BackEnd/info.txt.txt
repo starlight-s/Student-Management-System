@@ -1,0 +1,7 @@
+1.Create database of name project.
+2.Run given backend project 
+3.check all tables created or not
+4.insert given demo data in course and subject table using Mysql Commandline or MySql Workbench
+5.check controllers of admin and upload student data by giving required parameters
+6.for module performance,attendance and notice first admin will upload/add data 
+7.then admin and student can view uploaded/added data

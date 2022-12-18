@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.app.DAO.SubjectDAO"/>
+    <fullyQualifiedTypeName name="javax.security.auth.Subject"/>
+    <fullyQualifiedTypeName name="com.app.model.Subject"/>
+    <fullyQualifiedTypeName name="com.app.DAO.AdminDAO"/>
+    <fullyQualifiedTypeName name="com.app.service.AdminService"/>
+    <fullyQualifiedTypeName name="com.app.model.Admin"/>
+    <fullyQualifiedTypeName name="com.dto.LoginRequest"/>
+    <fullyQualifiedTypeName name="com.app.model.AdminLogin"/>
+</qualifiedTypeNameHistroy>

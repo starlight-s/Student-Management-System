@@ -1,0 +1,35 @@
+.upload_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 89vh;
+  gap: 30px;
+  background-color: rgba(164, 159, 250, 0.482);
+}
+
+.upload_select {
+  width: 200px;
+  padding: 13px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(221, 221, 221);
+  outline: none;
+}
+
+.upload_input {
+  width: 200px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(221, 221, 221);
+  outline: none;
+}
+
+.upload_btn {
+  width: 400px;
+  border: none;
+  border-radius: 20px;
+  padding: 13px 20px;
+  background-color: rgb(95, 95, 247);
+  cursor: pointer;
+}

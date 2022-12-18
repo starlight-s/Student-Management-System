@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@100&family=Poppins:wght@200&family=Roboto:wght@100&family=Ubuntu&display=swap");
+
+.adminnotice_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 89vh;
+  background-color: rgba(164, 159, 250, 0.482);
+  flex-direction: column;
+}
+
+.adminnotice_heading {
+  margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+}
+.adminnotice_body {
+  background-color: aliceblue;
+}
+/* ***********input and btn ************ */
+.adminnotice_input {
+  margin-left: 20px;
+  padding: 10px 40px;
+  width: 150px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(244, 243, 243);
+  margin-top: 8px;
+  outline: none;
+  text-align: center;
+}
+
+.adminnotice_buttonadd {
+  margin-left: 20px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: rgb(95, 95, 247);
+}
+
+/* ****************table portion**************** */
+.adminnotice_table {
+  margin-top: 50px;
+
+  width: 1000px;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.adminnotice_head {
+  background-color: black;
+  color: white;
+  padding: 20px 20px 20px 20px;
+}
+
+.adminnotice_body {
+  /* border: 1px solid bisque; */
+  text-align: center;
+}
+
+.adminnotice_buttoneditbody,
+.adminnotice_buttondeletebody {
+  border: none;
+  border-radius: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  padding: 10px 30px;
+  background-color: rgb(95, 95, 247);
+}
+
+.adminnotice_buttoneditbody {
+  margin-right: 20px;
+}
+
+/********save and cancel************/
+.adminnotice_buttonsavebody,
+.adminnotice_buttoncancelbody {
+  border: none;
+
+  cursor: pointer;
+  border-radius: 20px;
+  margin-top: 10px;
+  padding: 10px 30px;
+  background-color: rgb(196, 196, 255);
+}
+
+.adminnotice_buttonsavebody {
+  margin-right: 20px;
+}
+
+.adminnotice_select {
+  margin-left: 20px;
+  padding: 10px;
+  width: 162px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(244, 243, 243);
+  margin-top: 8px;
+  outline: none;
+  text-align: center;
+}
+
+.admin_form {
+  width: 1000px;
+  text-align: center;
+}

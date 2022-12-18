@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@100&family=Poppins:wght@200&family=Roboto:wght@100&family=Ubuntu&display=swap");
+
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 900px;
+  height: 450px;
+  background-color: rgb(193, 205, 255);
+
+  border-radius: 30px;
+}
+
+.loginwrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-logo {
+  margin-bottom: 30px;
+
+  height: 90px;
+}
+
+.login-heading {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.username-input {
+  padding: 10px 40px;
+  /* width: 35%; */
+  border: none;
+  border-radius: 20px;
+  background-color: white;
+  margin-top: 30px;
+  outline: none;
+  text-align: center;
+}
+
+.password-input {
+  padding: 10px 40px;
+  /* width: 35%; */
+  border: none;
+  border-radius: 20px;
+  background-color: white;
+  margin-top: 8px;
+  outline: none;
+  text-align: center;
+}
+
+.login-btn {
+  border: none;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: rgb(95, 95, 247);
+}
+
+.login-select {
+  padding: 10px;
+
+  border: none;
+  border-radius: 20px;
+  background-color: white;
+  margin-top: 8px;
+  outline: none;
+  text-align: center;
+}

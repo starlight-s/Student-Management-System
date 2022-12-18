@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "prn": "123456789",
+
+    "course": "PG-DESD"
+  },
+  {
+    "id": 2,
+    "prn": "123456789",
+
+    "course": "PG-DAC"
+  },
+  {
+    "id": 3,
+    "prn": "123456789",
+
+    "course": "PG-DESD"
+  },
+  {
+    "id": 4,
+    "prn": "123456789",
+
+    "course": "PG-DBDA"
+  },
+  {
+    "id": 5,
+    "prn": "123456789",
+
+    "course": "PG-DESD"
+  }
+]

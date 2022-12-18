@@ -1,0 +1,34 @@
+.notice_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 88vh;
+  background-color: rgba(164, 159, 250, 0.482);
+}
+
+.notice_table {
+  border-collapse: collapse;
+  width: 800px;
+}
+
+.notice_heading {
+  padding: 20px 20px 20px 80px;
+  background-color: black;
+  color: white;
+}
+
+.notice_data {
+  text-align: center;
+  padding: 30px;
+  border-collapse: collapse;
+  cursor: default;
+}
+
+.link_notice {
+  color: black;
+  cursor: pointer;
+}
+
+.notice_data {
+  background-color: white;
+}

@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@100&family=Roboto:wght@100&family=Ubuntu&display=swap");
+
+.encontainer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img_en {
+  width: 400px;
+  height: 400px;
+}
+
+.enheading {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+}
+
+.enwrapper {
+  margin: 10px 0px 0px 80px;
+}
+.eninnercon {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.eninput {
+  padding: 10px 40px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(221, 221, 221);
+  margin-top: 8px;
+  outline: none;
+}
+.texten {
+  color: rgb(130, 130, 130);
+}
+
+.enbtn {
+  border: none;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: rgb(95, 95, 247);
+}
+
+.input_field {
+  margin: 10px 0 !important;
+}

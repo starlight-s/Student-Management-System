@@ -1,0 +1,37 @@
+.notice_container_student {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: white im !important;
+  width: 100%;
+  margin-top: 120px;;
+}
+
+.notice_table {
+  border-collapse: collapse;
+  width: 800px;
+}
+
+.notice_heading {
+  padding: 20px 20px 20px 80px;
+  background-color: black;
+  color: white;
+}
+
+.notice_data_student {
+  text-align: center;
+  padding: 30px;
+  border-collapse: collapse;
+  cursor: default;
+  background-color: rgb(224 222 255 / 48%);
+}
+
+.link_notice {
+  color: black;
+  cursor: pointer;
+}
+
+tr:nth-child() {
+  background-color: #0f2b2b;
+}
